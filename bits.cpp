@@ -65,6 +65,11 @@ int main() {
   // cout << bit_val << " : " << val << endl;
 
   // pos_and_neg(5, -5);
-  right_shift_bits(5445, 12);
+  // right_shift_bits(5445, 12);
+
+  // int num = 32;
+  // cout << hex << num << endl;
+
+  cout << 0x7 << endl;
   
 }
